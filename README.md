@@ -18,7 +18,7 @@
    - vcredist vcredist is required (also known as 'Visual C++ Redistributable for Visual Studio 2015-2022', msvcp140.dll, vcruntime140.dll), because libtriton.pyd is compiled by MSVC. Install it from
     [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
-> [!WARNING] 
+> [!NOTE]  
 > **คำแนะนำ วิธีการติดตั้งโดยละเอียด [Triton-Windows](https://github.com/woct0rdho/triton-windows)**
 
 ### ขั้นตอนการติดตั้งและตั้งค่า
